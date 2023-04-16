@@ -1,0 +1,13 @@
+name = "TimeSeriesDerivatives"
+uuid = "fd80c5a8-b79d-40ac-856a-e8d55613aa96"
+authors = ["Rahul Manavalan <rahul.learns.physics@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
